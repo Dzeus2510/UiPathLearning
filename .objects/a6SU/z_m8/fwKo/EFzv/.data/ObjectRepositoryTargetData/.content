@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PqRpmDPKr0agWXRWdte7Cw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="4bde3f12-fc78-4a3f-bc80-c14d83840d6e" CvTextArea="1380, 20, 74, 15" CvTextArgument="Ui ACME Sy" CvType="Text" DesignTimeRectangle="1370, 12, 93, 29" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl name='RPA Developer Foundation (v2021.10) Course | UiPath Academy - Op*' role='pane' /&gt;&lt;ctrl name='Browser non-client' role='pane' /&gt;&lt;ctrl name='Browser client' role='pane' /&gt;&lt;ctrl name='Browser contents' role='grouping' /&gt;&lt;ctrl name='Top bar container' role='grouping' /&gt;&lt;ctrl name='Tab bar' role='page tab list' /&gt;&lt;ctrl name='ACME System 1 - Dashboard' role='page tab' /&gt;&lt;ctrl role='pane' /&gt;" FuzzySelectorArgument="&lt;ctrl name='RPA Developer Foundation (v2021.10) Course | UiPath Academy - Op*' role='pane' /&gt;&lt;ctrl name='Browser non-client' role='pane' /&gt;&lt;ctrl name='Browser client' role='pane' /&gt;&lt;ctrl name='Browser contents' role='grouping' /&gt;&lt;ctrl name='Top bar container' role='grouping' /&gt;&lt;ctrl name='Tab bar' role='page tab list' /&gt;&lt;ctrl name='ACME System 1 - Dashboard' role='page tab' /&gt;&lt;ctrl role='pane' automationid='' check:text='ACME System 1 - Dashboard' /&gt;" Guid="eddb806c-534e-489d-9773-eccf400586fd" ScopeSelectorArgument="&lt;wnd app='opera.exe' cls='Chrome_WidgetWin_1' title='RPA Developer Foundation (v2021.10) Course | UiPath Academy - Op*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4bde3f12-fc78-4a3f-bc80-c14d83840d6e" CvTextArea="1380, 20, 74, 15" CvTextArgument="Ui ACME Sy" CvType="Text" DesignTimeRectangle="1380, 20, 74, 15" ElementType="Text" Guid="e7460ff3-4ff5-4523-9fdf-97c327fb5c18" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset Y="-3" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="2b9bd03b5f6565b78cf601fc722b44f8.png" xmlns="">01DGPo6qGAkWbWZLkwS3Wsg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Element 'Insert the client code …'",
+  "Type": "Element",
+  "Id": "7Tq8TpurQUik9VJyWLG0Pg",
+  "Reference": "RBazo_MeDkC_hMEGITpcaA/7Tq8TpurQUik9VJyWLG0Pg",
+  "ParentRef": "RBazo_MeDkC_hMEGITpcaA/fwKoETJfVEC3HaT7McDQaQ",
+  "Created": "2025-05-06T03:10:28.4988921Z",
+  "Updated": "2025-05-06T03:10:28.4988921Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

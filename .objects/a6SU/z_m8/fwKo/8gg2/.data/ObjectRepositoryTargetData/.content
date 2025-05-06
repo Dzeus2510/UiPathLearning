@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nqzKPTqEIEq8X0bkxnp5Rw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="3eee9cac-aaf7-49da-b105-f290bb819772" CvTextArea="625, 279, 49, 13" CvTextArgument="PART 2" CvType="Text" DesignTimeRectangle="595, 268, 78, 28" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;ctrl name='ACME System 1 - Dashboard' role='document' /&gt;&lt;ctrl name=' PART 2' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ACME System 1 - Dashboard' role='document' /&gt;&lt;ctrl name=' PART 2' role='link' automationid='' check:text='PART 2' /&gt;" Guid="7ebb0b16-e5be-4892-ae40-f1116400868f" ScopeSelectorArgument="&lt;wnd app='opera.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Dashboard - Opera' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3eee9cac-aaf7-49da-b105-f290bb819772" CvTextArea="486, 189, 473, 31" CvTextArgument="Welcome to First Automation!" CvType="Text" DesignTimeRectangle="488, 186, 1001, 40" FullSelectorArgument="&lt;ctrl name='ACME System 1 - Dashboard' role='document' /&gt;&lt;ctrl name='Welcome to First Automation!' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ACME System 1 - Dashboard' role='document' /&gt;&lt;ctrl name='Welcome to First Automation!' role='grouping' automationid='' check:text='Welcome to First Automation!' /&gt;" Guid="2bfad578-71cf-444a-b412-7727f3ee2c15" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8e6aea5fd98f4953e4af957d86f7bf7a.png" xmlns="">0July7zZYEUKTc-UIPInJvw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

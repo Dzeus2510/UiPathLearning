@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Discount",
+  "Type": "Element",
+  "Id": "26_D7ungx0imojgq_iooDw",
+  "Reference": "RBazo_MeDkC_hMEGITpcaA/26_D7ungx0imojgq_iooDw",
+  "ParentRef": "RBazo_MeDkC_hMEGITpcaA/fwKoETJfVEC3HaT7McDQaQ",
+  "Created": "2025-05-06T02:33:04.5226039Z",
+  "Updated": "2025-05-06T02:33:04.5226039Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aQ0gh33j0kyyW2uVBWa59w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="675, 378, 23, 25" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl name='ACME System 1 - Dashboard' role='document' /&gt;&lt;ctrl name='' role='push button' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ACME System 1 - Dashboard' role='document' /&gt;&lt;ctrl name='' role='push button' /&gt;&lt;ctrl role='grouping' automationid='' check:text='' /&gt;" Guid="b94e7abd-b0d5-4905-92c4-2d1a85997d33" ScopeSelectorArgument="&lt;wnd app='opera.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Dashboard - Opera' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="38246683-0082-44f8-9a41-8d74e00fe9ef" CvTextArea="488, 331, 706, 22" CvTextArgument="Insert the client code to generate the discount value according to the promotion." CvType="Text" DesignTimeRectangle="488, 326, 1001, 30" FullSelectorArgument="&lt;ctrl name='ACME System 1 - Dashboard' role='document' /&gt;&lt;ctrl idx='10' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ACME System 1 - Dashboard' role='document' /&gt;&lt;ctrl automationid='' role='grouping' check:text='Insert the client code to generate the discount value according to the promotion.' /&gt;" Guid="81031f9e-ca3f-47d4-8979-6d5fe3afde79" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b2820b720731b40a2cd5477bbd2119c0.png" xmlns="">0wAU2XeEppEqrJmw9PqFUEw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

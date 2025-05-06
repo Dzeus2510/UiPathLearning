@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Ui ACME Sy",
+  "Type": "Element",
+  "Id": "EFzvVN6yFUW9dr5BWQyXhA",
+  "Reference": "RBazo_MeDkC_hMEGITpcaA/EFzvVN6yFUW9dr5BWQyXhA",
+  "ParentRef": "RBazo_MeDkC_hMEGITpcaA/fwKoETJfVEC3HaT7McDQaQ",
+  "Created": "2025-05-06T02:28:45.0571735Z",
+  "Updated": "2025-05-06T02:28:45.0571735Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

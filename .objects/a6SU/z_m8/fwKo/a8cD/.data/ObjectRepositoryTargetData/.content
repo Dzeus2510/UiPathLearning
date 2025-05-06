@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qRWT6OUpvkmFTFjO02nNww" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="3eee9cac-aaf7-49da-b105-f290bb819772" CvElementArea="486, 368, 221, 45" CvType="InputBox" DesignTimeRectangle="488, 369, 179, 44" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='ACME System 1 - Dashboard' role='document' /&gt;&lt;ctrl name='Type the client code' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ACME System 1 - Dashboard' role='document' /&gt;&lt;ctrl name='Type the client code' role='editable text' automationid='' /&gt;" Guid="7c16ea48-9fa7-4ef0-b1a4-885f096eab14" ScopeSelectorArgument="&lt;wnd app='opera.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Dashboard - Opera' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3eee9cac-aaf7-49da-b105-f290bb819772" CvTextArea="488, 331, 706, 22" CvTextArgument="Insert the client code to generate the discount value according to the promotion." CvType="Text" DesignTimeRectangle="488, 326, 1001, 30" FullSelectorArgument="&lt;ctrl name='ACME System 1 - Dashboard' role='document' /&gt;&lt;ctrl idx='10' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ACME System 1 - Dashboard' role='document' /&gt;&lt;ctrl automationid='' role='grouping' check:text='Insert the client code to generate the discount value according to the promotion.' /&gt;" Guid="60d6f1f4-2e5a-472c-b931-5dc848e0391d" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="255c98174cdcd7bba63b4a029979153f.png" xmlns="">0PFyt1MFdy0-Sz5QxL7tLdg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

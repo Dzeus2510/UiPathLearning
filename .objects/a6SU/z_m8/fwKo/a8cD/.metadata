@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Insert the client code …",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "a8cDrPGokEGvDbXG-dt9zw",
+  "Reference": "RBazo_MeDkC_hMEGITpcaA/a8cDrPGokEGvDbXG-dt9zw",
+  "ParentRef": "RBazo_MeDkC_hMEGITpcaA/fwKoETJfVEC3HaT7McDQaQ",
+  "Created": "2025-05-06T02:31:06.4118009Z",
+  "Updated": "2025-05-06T02:31:06.4118009Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
